@@ -1,0 +1,16 @@
+
+<!--Afroze Kassam-->
+<!--Project 1B-->
+<!--Date: 4/17/2025-->
+
+<resources>
+    <string name="app_name">Random Joke Generator</string>
+    <string name="pred1">Why don\'t skeletons fight each other? They don\'t have the guts.</string>
+    <string name="pred2">I told my computer I needed a break, and now it won’t stop sending me Kit-Kats!</string>
+    <string name="pred3">Parallel lines have so much in common. It’s a shame they’ll never meet.</string>
+    <string name="pred4">I only know 25 letters of the alphabet. I don’t know y.</string>
+    <string name="pred5">Why don’t oysters donate to charity? Because they are shellfish!</string>
+    <string name="pred6">I’m reading a book on anti-gravity. It’s impossible to put down.</string>
+    <string name="pred7">Why don’t some couples go to the gym? Because some relationships don’t work out.</string>
+    <string name="pred8">I told my wife she was drawing her eyebrows too high. She looked surprised.</string>
+</resources>
